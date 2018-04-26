@@ -1,12 +1,6 @@
 # kivy-simple-mvc-template
 simple mvc starter template
 
-This app is made for a real estate web service, Kivy is used to implement it. This project uses MVC pattern, Which can be a starter template to start working with the kivy.
-
-This project uses peewee as a ORM, And SQLite as database engine.
-
-Firstly, app will get real estates from the Web service and, if it has new real estates, it will store new real estates info in the database.
-
 ## Requirements
 
 * [Python 2.7](https://www.python.org/downloads/release/python-2712/)
