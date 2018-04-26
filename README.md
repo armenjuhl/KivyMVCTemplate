@@ -37,5 +37,5 @@ In the root directory of project, run below code in terminal
 ## Packaging the application
 Using [this](https://kivy.org/docs/guide/packaging.html) link for packaging the application for Win, Mac, iOS, Android Platforms
 
-<h1>Credit</h1>
+<h3>Credit</h3>
 https://github.com/python-programmer/kivy-simple-mvc-template
